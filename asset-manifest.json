@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chato-web/static/css/main.ac07fca6.css",
+    "main.js": "/chato-web/static/js/main.e92c364e.js",
+    "static/js/453.c3a38750.chunk.js": "/chato-web/static/js/453.c3a38750.chunk.js",
+    "index.html": "/chato-web/index.html",
+    "main.ac07fca6.css.map": "/chato-web/static/css/main.ac07fca6.css.map",
+    "main.e92c364e.js.map": "/chato-web/static/js/main.e92c364e.js.map",
+    "453.c3a38750.chunk.js.map": "/chato-web/static/js/453.c3a38750.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac07fca6.css",
+    "static/js/main.e92c364e.js"
+  ]
+}
